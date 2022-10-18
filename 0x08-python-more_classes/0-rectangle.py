@@ -6,4 +6,4 @@ from ast import Pass
 class Rectangle:
     """This is an empty class"""
 
-    Pass
+    pass
