@@ -1,9 +1,4 @@
 #!/bin/bash
-<<<<<<< HEAD
-# Save python file in variable
-$PYFILE = {python3}
-=======
 
 # Save python file in variable
 $PYFILE = {python3}
->>>>>>> c43877200ffbcf37df443c69971236e57acbe48b
