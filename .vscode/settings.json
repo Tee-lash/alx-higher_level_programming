@@ -1,5 +1,6 @@
 {
     "python.linting.pycodestyleEnabled": true,
     "python.linting.pylintEnabled": true,
-    "git.fetchOnPull": true
+    "git.fetchOnPull": true,
+    "python.linting.pycodestyleCategorySeverity.W": "Warning"
 }
